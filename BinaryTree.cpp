@@ -71,6 +71,8 @@ public:
             return ;
         } 
     }
+void search(int element, node *&parent, node *&currentnode)
+    {}
 
 
 
